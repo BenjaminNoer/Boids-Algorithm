@@ -1,0 +1,30 @@
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\bin\Debug\Boids.exe.config
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\bin\Debug\Boids.exe
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\bin\Debug\Boids.pdb
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\obj\Debug\Boids.csprojAssemblyReference.cache
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\obj\Debug\Boids.Form1.resources
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\obj\Debug\Boids.Properties.Resources.resources
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\obj\Debug\Boids.csproj.GenerateResource.cache
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\obj\Debug\Boids.exe
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\Boids\obj\Debug\Boids.pdb
+D:\Coding\C#\Boids\bin\Debug\Boids.exe.config
+D:\Coding\C#\Boids\bin\Debug\Boids.exe
+D:\Coding\C#\Boids\bin\Debug\Boids.pdb
+D:\Coding\C#\Boids\obj\Debug\Boids.csprojAssemblyReference.cache
+D:\Coding\C#\Boids\obj\Debug\Boids.Form1.resources
+D:\Coding\C#\Boids\obj\Debug\Boids.Properties.Resources.resources
+D:\Coding\C#\Boids\obj\Debug\Boids.csproj.GenerateResource.cache
+D:\Coding\C#\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Boids\obj\Debug\Boids.exe
+D:\Coding\C#\Boids\obj\Debug\Boids.pdb
+G:\Coding\C#\Boids\bin\Debug\Boids.exe.config
+G:\Coding\C#\Boids\bin\Debug\Boids.exe
+G:\Coding\C#\Boids\bin\Debug\Boids.pdb
+G:\Coding\C#\Boids\obj\Debug\Boids.csprojAssemblyReference.cache
+G:\Coding\C#\Boids\obj\Debug\Boids.Form1.resources
+G:\Coding\C#\Boids\obj\Debug\Boids.Properties.Resources.resources
+G:\Coding\C#\Boids\obj\Debug\Boids.csproj.GenerateResource.cache
+G:\Coding\C#\Boids\obj\Debug\Boids.csproj.CoreCompileInputs.cache
+G:\Coding\C#\Boids\obj\Debug\Boids.exe
+G:\Coding\C#\Boids\obj\Debug\Boids.pdb
